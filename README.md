@@ -1,20 +1,20 @@
 
-### Hi there, I'm Dara! 👋
+### Hi there, I'm Baretsky! 👋
 
-**Automation Enthusiast 🚀**
+**Automation Lord**
 
-I automate things so I don't have to code them.
-Big fan of cloud tech and optimizing workflows. I love to poke around every technology I can find until it breaks (or works better).
+I operate on a simple rule: if I have to do it more than twice, I script it. I’d rather spend a week automating a process than spend an hour doing it manually. I focus on infrastructure and pipelines because writing application code makes my head hurt.
 
 - ❤️ **Loves:** CI/CD, Scripts, Cloud.
 - 💔 **Hates:** Writing 1000 lines of code when a simple script can do it.
+- 🏠 **Home Lab:** Powered by duct tape, bash scripts, and pure hope.
 - 📉 **Coding skills:** ChatGPT is my new Stack Overflow (RIP).
 
 ---
 
-### 🛠️ Skills & Technologies
+### Skills & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=linux,docker,jenkins,aws,kubernetes,terraform,git,bash,python,java,react,nginx&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,docker,jenkins,aws,kubernetes,git,bash,python,java,react,nginx&perline=15)](https://skillicons.dev)
 
 
 ---
